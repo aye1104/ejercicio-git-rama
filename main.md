@@ -1,1 +1,2 @@
 - Archivo inicial del ejercicio
+- Agrego mi nombre y mis expectativas del curso
